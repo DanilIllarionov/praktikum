@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "jquery": "^3.6.0"
+  },
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "fasfa",
+  "main": "fas",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asf"
+  },
+  "keywords": [
+    "asf"
+  ],
+  "author": "",
+  "license": "ISC"
+}
